@@ -1,0 +1,93 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="discordbot2:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/discordbot2_jar</output-path>
+    <root id="archive" name="discordbot2.jar">
+      <element id="module-output" name="discordbot2" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/mybatis/spring/boot/mybatis-spring-boot-starter/3.0.3/mybatis-spring-boot-starter-3.0.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/io/github/cdimascio/dotenv-java/2.2.4/dotenv-java-2.2.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.10.1/gson-2.10.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/hdrhistogram/HdrHistogram/2.2.2/HdrHistogram-2.2.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/latencyutils/LatencyUtils/2.0.3/LatencyUtils-2.0.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/slf4j/jul-to-slf4j/2.0.16/jul-to-slf4j-2.0.16.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.34/lombok-1.18.34.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/io/micrometer/micrometer-core/1.13.3/micrometer-core-1.13.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-tomcat/3.3.3/spring-boot-starter-tomcat-3.3.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jsoup/jsoup/1.16.1/jsoup-1.16.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/io/micrometer/micrometer-commons/1.13.3/micrometer-commons-1.13.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/spring-web/6.1.12/spring-web-6.1.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/reflections/reflections/0.10.2/reflections-0.10.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator/3.3.3/spring-boot-actuator-3.3.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/squareup/okhttp3/okhttp-sse/4.12.0/okhttp-sse-4.12.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-web/3.3.3/spring-boot-starter-web-3.3.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/spring-context/6.1.12/spring-context-6.1.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/dev/langchain4j/langchain4j/0.33.0/langchain4j-0.33.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/dev/langchain4j/langchain4j-open-ai-spring-boot-starter/0.33.0/langchain4j-open-ai-spring-boot-starter-0.33.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter/3.3.3/spring-boot-starter-3.3.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/spring-tx/6.1.12/spring-tx-6.1.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-to-slf4j/2.23.1/log4j-to-slf4j-2.23.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/spring-core/6.1.12/spring-core-6.1.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jetbrains/annotations/13.0/annotations-13.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/neovisionaries/nv-websocket-client/2.14/nv-websocket-client-2.14.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/2.0.16/slf4j-api-2.0.16.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/commons/commons-collections4/4.4/commons-collections4-4.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/dev/langchain4j/langchain4j-open-ai/0.33.0/langchain4j-open-ai-0.33.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/mybatis/spring/boot/mybatis-spring-boot-autoconfigure/3.0.3/mybatis-spring-boot-autoconfigure-3.0.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/fasterxml/jackson/datatype/jackson-datatype-jdk8/2.17.2/jackson-datatype-jdk8-2.17.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib/1.9.25/kotlin-stdlib-1.9.25.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/squareup/okhttp3/okhttp/4.12.0/okhttp-4.12.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/io/micrometer/micrometer-jakarta9/1.13.3/micrometer-jakarta9-1.13.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/6.1.12/spring-webmvc-6.1.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.17.2/jackson-databind-2.17.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-api/2.23.1/log4j-api-2.23.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/xuwei-k/html2image/0.1.0/html2image-0.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/spring-expression/6.1.12/spring-expression-6.1.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/dev/langchain4j/langchain4j-core/0.33.0/langchain4j-core-0.33.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/jakarta/annotation/jakarta.annotation-api/2.1.1/jakarta.annotation-api-2.1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/club/minnced/opus-java/1.1.1/opus-java-1.1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator-autoconfigure/3.3.3/spring-boot-actuator-autoconfigure-3.3.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/10.1.28/tomcat-embed-core-10.1.28.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/ch/qos/logback/logback-classic/1.5.7/logback-classic-1.5.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/squareup/retrofit2/converter-gson/2.9.0/converter-gson-2.9.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/opennlp/opennlp-tools/1.9.4/opennlp-tools-1.9.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-annotations/2.17.2/jackson-annotations-2.17.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-json/3.3.3/spring-boot-starter-json-3.3.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-actuator/3.3.3/spring-boot-starter-actuator-3.3.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-el/10.1.28/tomcat-embed-el-10.1.28.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/ch/qos/logback/logback-core/1.5.7/logback-core-1.5.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-jdbc/3.3.3/spring-boot-starter-jdbc-3.3.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/squareup/retrofit2/retrofit/2.9.0/retrofit-2.9.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-core/2.17.2/jackson-core-2.17.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/net/dv8tion/JDA/5.0.1/JDA-5.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/dev/langchain4j/langchain4j-spring-boot-starter/0.33.0/langchain4j-spring-boot-starter-0.33.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.14/mybatis-3.5.14.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/club/minnced/opus-java-api/1.1.1/opus-java-api-1.1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/yaml/snakeyaml/2.2/snakeyaml-2.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib-jdk8/1.9.25/kotlin-stdlib-jdk8-1.9.25.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/squareup/okio/okio/3.6.0/okio-3.6.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.17.2/jackson-datatype-jsr310-2.17.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-websocket/10.1.28/tomcat-embed-websocket-10.1.28.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/net/sf/trove4j/core/3.1.0/core-3.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/3.3.3/spring-boot-autoconfigure-3.3.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/3.0.3/mybatis-spring-3.0.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib-jdk7/1.9.25/kotlin-stdlib-jdk7-1.9.25.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/net/java/dev/jna/jna/4.4.0/jna-4.4.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/club/minnced/opus-java-natives/1.1.1/opus-java-natives-1.1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/javassist/javassist/3.28.0-GA/javassist-3.28.0-GA.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/3.3.3/spring-boot-3.3.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-logging/3.3.3/spring-boot-starter-logging-3.3.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/spring-beans/6.1.12/spring-beans-6.1.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/6.1.12/spring-jdbc-6.1.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/spring-jcl/6.1.12/spring-jcl-6.1.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/mysql/mysql-connector-j/8.3.0/mysql-connector-j-8.3.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/zaxxer/HikariCP/5.1.0/HikariCP-5.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/squareup/okio/okio-jvm/3.6.0/okio-jvm-3.6.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/knuddels/jtokkit/1.1.0/jtokkit-1.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/fasterxml/jackson/module/jackson-module-parameter-names/2.17.2/jackson-module-parameter-names-2.17.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/spring-aop/6.1.12/spring-aop-6.1.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/dev/ai4j/openai4j/0.17.0/openai4j-0.17.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib-common/1.9.25/kotlin-stdlib-common-1.9.25.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/io/micrometer/micrometer-observation/1.13.3/micrometer-observation-1.13.3.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
